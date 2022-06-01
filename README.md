@@ -1,8 +1,8 @@
 ## Olá eu sou a Diego Rodrigues, estudante de programação e  amante de tecnologia!
 <div align="center">
   <a href="https://github.com/dhrodrigues">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dhrodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrodrigues&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhrodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrodrigues&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <img align="center" alt="Diego-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
